@@ -1,2 +1,3 @@
 #!/bin/bash
-#ls
+ls
+how to display content files
